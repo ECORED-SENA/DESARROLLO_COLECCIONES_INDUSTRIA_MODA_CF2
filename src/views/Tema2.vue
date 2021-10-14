@@ -71,44 +71,44 @@
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=VwcEM7yH_BY&t=49s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 2. Función y forma.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=gDdecWi3Cqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 3. La Police Gear. Atlas tactical pant with STS.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=9c804j6JkcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 4. Ropa técnica y minimalista para viajar cómodo.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=C--IDz6VPgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 5. Ropa términca para futbolistas.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=TW_EP9gr8ro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 6. Ropa infantil funcional y ecológica.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=CWAKQ9BOJP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 7. H&M for brick lane bikes: coming together.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=mzxS3vl0418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 8. H&M for brick lane bikes: men's fashion.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                                                                                    
+              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=SevMbAEKV34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                                                                                    
             
     separador
     #t_2_3.titulo-segundo
@@ -123,10 +123,10 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=_tAyf9tOkW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
 
       .col-lg-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_8_Diseno_para_no_disenadores_color.pdf')" target="_blank")
+        a.anexo.mb-4(:href="('https://www.protocolo.org/social/vestuario/la-indumentaria-que-decimos-con-nuestra-forma-de-vestir.html')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
@@ -149,25 +149,25 @@
   
     .row.mb-5
       .col-md-6.col-lg.mb-5.mb-lg-0
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="('https://www.tvu.cl/comunidades/modas/2017/08/02/ejemplos-de-ergonomia-en-el-vestuario-y-la-moda.html')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Ergonomía en el vestuario y la moda
       .col-md-6.col-lg.mb-5.mb-lg-0
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="('https://psicologiaymente.com/miscelanea/ergonomia')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Qué es y cuáles son sus 4 tipos y funciones 
       .col-md-6.col-lg.mb-5.mb-lg-0
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="('https://id.pinterest.com/krisnapramadita/ergonomic-fashion/')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
             p Ergonomic Fashion 
       .col-md-6.col-lg.mb-5.mb-lg-0
-        a.anexo.mb-4(:href="obtenerLink('/downloads/prueba.pdf')" target="_blank")
+        a.anexo.mb-4(:href="('http://antropometria.herokuapp.com/')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
@@ -191,43 +191,18 @@
         
     figcaption.mb-5  Adaptado de Baena & Baquero (2006, 2007), Barraza (2010), Fernández (2013), Fernández & Echeverri (2013); López (2010), Suny. (2018)       
 
-    TabsA.color-secundario.mb-5
-      .tarjeta.color-primario--borde.p-4(titulo="Vídeo 1. This Is The Shapewear You MUST Have!")
-        .row
-          figure.mb-5
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .tarjeta.color-primario--borde.p-4(titulo="Vídeo 2. Vestido de baño con control de abdomen.")
-        .row
-          figure.mb-5
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .tarjeta.color-primario--borde.p-4(titulo="Vídeo 3. LEONISA, Leggings de control.")
-        .row
-          figure.mb-5
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      .tarjeta.color-primario--borde.p-4(titulo="Vídeo 4. Delié es mayor confort.")
-        .row
-          figure.mb-5
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                                          
-      .tarjeta.color-primario--borde.p-4(titulo="Vídeo 5. Fájate for men.")
-        .row
-          figure.mb-5
-            .video
-              iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                      
+                   
 
     separador
     #t_2_6.titulo-segundo
       h2 2.6 Funcionalidad y producción técnica de la prenda
-    
+    .row.fnd-8.mb-5
       SlyderA
         .row
           figure.py-4
             img.img-600.img-c(src='@/assets/tema2/img-9.svg') 
           p Con la llegada de las nuevas tecnologías aparecen nuevos conceptos de vestuario, es el caso de las <b><span class='txt-1'>tecnologías vestibles </span></b> o en inglés wearables, las cuales a partir de la incorporación de materiales de última generación y dispositivos de sensórica,  cumplen diversos usos como el monitoreo de signos vitales, control de funciones del organismo, señalización, control de dispositivos móviles o, desde campos estéticos, el cambio de textura gráfica (luces led) lo que hace infinita la variación de prendas en una sola.
-          p Adaptado de Fernández (s.f.); Kim, Kim, Oh & Kim (2017), Urbina (2011). 
+        
 
         div
           figure.py-4
@@ -237,42 +212,42 @@
           figure.py-4
                 img.img-600.img-c(src='@/assets/tema2/img-11.png') 
           p También se aporta por medio de la responsabilidad social del diseño y desde la funcionalidad a la solución de necesidades específicas como la falta de movilidad o dificultades motrices, al igual que desde la función estética del vestido a la comunicación de las expresiones personales en niños con parálisis cerebral (Durán, 2015) en cuanto a temas de tecnología y vestuario, éste se emplea desde múltiples campos como terapia en personas con necesidades cognitivas especiales, aportando confianza a los procesos de aprendizaje (Sevilla & Echeverri, 2018). Son múltiples los ejemplos de cómo la tecnología multiplica el abanico de funciones de la ropa.
-        
+          
     .row.justify-content-around.align-items-center
       .col-lg-10.align-self-center.fnd-1-.p-3 
         .row.justify-content-around.align-items-center
           .col-lg-8.mb-3
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=-HjTNGLh35s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Vídeo  Ropa blindada: un hombre recibió dos disparos 
           .col-lg-8.mb-3               
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=uqQwKOYZn9w" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Vídeo Códigos de vestimenta del futuro 
           .col-lg-8.mb-3               
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.di-conexiones.com/la-moda-diseno-industrial-objetos-para-usar-tecnologias-diversas/" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Página  Moda + Diseño Industrial: objetos para usar, tecnologías diversas 
           .col-lg-8.mb-3               
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.hindawi.com/journals/wcmc/2017/5203053/" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Página  Interactive Smart Fashion Using User-Oriented Visible Light Communication: The Case of Modular Strapped Cuffs and Zipper Slider Types 
           .col-lg-8.mb-3               
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://hiconsumption.com/vollebak-black-squid-jacket/" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Vollebak Black Squid Jacket | HiConsumption  
           .col-lg-8.mb-3               
-            a.anexo.mb-4.mb-lg-0(href="https://en.wikipedia.org/wiki/Main_Page" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=1s8DXEXFDY8&feature=youtu.be" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto

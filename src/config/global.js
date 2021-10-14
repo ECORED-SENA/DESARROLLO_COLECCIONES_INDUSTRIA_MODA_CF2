@@ -13,12 +13,7 @@ export default {
         icono: 'fas fa-home',
         titulo: 'Volver al inicio',
       },
-      {
-        nombreRuta: 'introduccion',
-        icono: 'fas fa-info',
-        titulo: 'Introducción',
-        desarrolloContenidos: true,
-      },
+
       {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
@@ -136,6 +131,11 @@ export default {
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
+      {
+        nombreRuta: 'complementario',
+        icono: 'far fa-folder-open',
+        titulo: 'Material complementario',
+      },
 
       {
         icono: 'fas fa-book',
@@ -154,6 +154,7 @@ export default {
       },
     ],
   },
+
   referencias: [
     {
       referencia:
@@ -312,7 +313,6 @@ export default {
     {
       referencia:
         'Healthia. (s.f.). Ropa Inteligente l Healthia.es. Healthia. ',
-      link: 'https://healthia.es/blog/tecnologia-deporte/ropa-inteligente/',
     },
     {
       referencia:
@@ -518,6 +518,52 @@ export default {
       referencia:
         'Wikipedia. (s.f.). Wikipedia, la enciclopedia libre. Wikipedia. Retrieved July 6, 2020, from ',
       link: 'https://es.wikipedia.org/wiki/Código_de_vestimenta',
+    },
+  ],
+  complementario: [
+    {
+      texto:
+        'aitex, Generaliitat Valenciana, Instituto Valenciano de Competitividad Empresarial, & Regional, F. E. de D. (s.f.). Informe de resultados TECMOD.',
+      tipo: 'PDF',
+      descarga: '/downloads/Anexo_R _ Informe_resultados_TECMOD.pdf',
+    },
+    {
+      texto:
+        'Baena & Baquero, (2006). El confort como una característica importante en el diseño de prendas.',
+      tipo: 'PDF',
+      descarga:
+        '/downloads/ElConfortComoUnaCaracteristicaImportanteEnElDiseno-5204321.pdf',
+    },
+    {
+      texto:
+        'Baquero Álvarez & Baena Restrepo. (2007). La prenda como producto de vestuario. Funcionalidad y comodidad.',
+      tipo: 'PDF',
+      descarga:
+        '/downloads/LaPrendaComoProductoDeVestuarioFuncionalidadYComod-5204378.pdf',
+    },
+    {
+      texto: 'Desconocido (s.f.) Design',
+      tipo: 'GIF',
+      descarga: '/downloads/design.gif',
+    },
+    {
+      texto:
+        'Durán, V. (2015). Prendas funcionales Indumentaria para niños con parálisis cerebral con cuadriplejia.',
+      tipo: 'PDF',
+      descarga:
+        '/downloads/Prendas_funcionales_indumentaria_para_ninos_con_paralisis_cerebral_con_cuadriplejia.pdf',
+    },
+    {
+      texto:
+        'Grupo de investigación en diseño; Universidad Pedagógica y Tecnológica de Colombia, (2018). Seminario de investigación en diseño-Taller 11.',
+      tipo: 'PDF',
+      descarga: '/downloads/sid9.pdf',
+    },
+    {
+      texto:
+        'López, Ll., (2011). Perversa segunda piel. Ética, estética y política en el vestuario según Jean-Jacques Rousseau.',
+      tipo: 'PDF',
+      descarga: '/downloads/perversa_segunda_piel.pdf',
     },
   ],
   glosario: [
@@ -792,7 +838,7 @@ export default {
       //   centro: 'Centro de Comercio y Servicios - Regional Tolima',
       // },
       {
-        nombre: '',
+        nombre: 'Yuli Marcela Gómez Tarazona',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura - Regional Santander',

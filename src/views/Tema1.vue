@@ -91,8 +91,8 @@
         .row.justify-content-around.align-items-center.mb-4
           spam.fnd-5.mb-4 Los colores se clasifican en cálidos y fríos  
           .col-lg-6.mb-5.l-d2.py-4
-            p Los tonos cálidos son mezclas que aparecen en un lado del círculo cromático entre el rojo y el amarillo, y, los tonos fríos los que están en el lado opuesto, entre el azul y el violeta. Se clasifican de esta forma por la cantidad de negro o blanco que contengan, dando paso a la vibración del color, o sea el brillo y la opacidad que los caracteriza, desplegando así un sinnúmero de tonalidades.
-            p Los colores se definen de acuerdo a características, normas o reglas que se generan a partir de técnicas aplicadas que permiten obtener nuevas propuestas de color, partiendo de elementos como la tonalidad, la saturación, el brillo, el contraste, la adyacencia, el complemento y la oposición. La habilidad se adquiere desde el momento en que se empieza a jugar con el color en el círculo cromático de diversas maneras, dando como resultado cartas de color con características de sensibilidad, de acuerdo a conceptos o temas de inspiración.
+            p Los tonos <b><span class='txt-1'> cálidos</span></b> son mezclas que aparecen en un lado del círculo cromático <b><span class='txt-1'>entre el rojo y el amarillo,</span></b> y, los tonos <b><span class='txt-1'>fríos</span></b> los que están en el lado opuesto, <b><span class='txt-1'>entre el azul y el violeta.</span></b> Se clasifican de esta forma por la cantidad de negro o blanco que contengan, dando paso a la vibración del color, o sea el brillo y la opacidad que los caracteriza, desplegando así un sinnúmero de tonalidades.
+            p Los colores se definen de acuerdo a características, normas o reglas que se generan a partir de técnicas aplicadas que permiten obtener<b><span class='txt-1'> nuevas propuestas de color,</span></b> partiendo de elementos como la tonalidad, la saturación, el brillo, el contraste, la adyacencia, el complemento y la oposición. La habilidad se adquiere desde el momento en que se empieza a jugar con el color en el <b><span class='txt-1'>círculo cromático</span></b> de diversas maneras, dando como resultado cartas de color con características de sensibilidad, de acuerdo a conceptos o temas de inspiración.
 
           .col-lg-6.mb-5
             figure.py-4
@@ -110,6 +110,8 @@
             .col-md-6.col-lg.mb-5.mb-lg-0
               figure.py-4
                 img.img-450.img-c(src='@/assets/tema1/img-11.svg')
+        .row.justify-content-around.align-items-center
+          p.mb-5.text-center Siguiendo con el proceso se puede mezclar un color primario con uno  secundario y da como resultado un color terciario, así:              
           .row.mb-5
             .col-md-6.col-lg.mb-5.mb-lg-0
               figure.py-4
@@ -135,7 +137,7 @@
       h2 1.3 Círculo cromático 
     .row.justify-content-around.align-items-center.fnd-6.mb-5
       figure.py-4.p-5
-        img.img-450.img-c(src='@/assets/tema1/img-33.svg')
+        img.img-c(src='@/assets/tema1/img-33.svg')
     .row.justify-content-around.align-items-center.mb-5      
       figure
         .video
@@ -225,8 +227,9 @@
         :style="{'background-image': `url(${require('@/assets/tema1/img-23.png')})`}"
       )
       .bloque-texto-g__texto.p-4
-        p.mb-0 La <b><span class='txt-1'>psicología del color</span></b> es la que estudia en el mundo, lo sensorial, los sentimientos y transformaciones de los individuos con relación al uso del color; se trata del <b><span class='txt-1'>significado que a través de la historia se ha construido</span></b> en un sinnúmero de referentes, ya sea desde lo social, cultural, actitudinal y comportamental. Cada individuo desde su propia experiencia lo aprueba o rechaza y esto tiene que ver directamente con lo que se conoce como “el gusto” de cada persona.
-
+        p.mb-4 La <b><span class='txt-1'>psicología del color</span></b> es la que estudia en el mundo, lo sensorial, los sentimientos y transformaciones de los individuos con relación al uso del color; se trata del <b><span class='txt-1'>significado que a través de la historia se ha construido</span></b> en un sinnúmero de referentes, ya sea desde lo social, cultural, actitudinal y comportamental. Cada individuo desde su propia experiencia lo aprueba o rechaza y esto tiene que ver directamente con lo que se conoce como “el gusto” de cada persona.
+        br 
+        br
         p.mb-0 <b><span class='txt-1'>La estética</span></b> presenta un sinnúmero de <b><span class='txt-1'>opciones </span></b>desde el <b><span class='txt-1'>manejo del color,</span></b> donde hacen su aparición las tonalidades, generando sensaciones de alegría, tristeza y tranquilidad, que son fenómenos donde el color siempre está presente y se sienten de una manera tan evidente que, con la presencia del solo color, se puede leer o traducir en sentimientos.
 
     .row.mb-5
@@ -241,10 +244,10 @@
    
     p El color es un elemento enamorador de una prenda y/o colección, por esto lo más importante es la interpretación que se le dé al concepto, de donde se definen los colores de la colección.
 
-    p La naturaleza, es la diosa en generar armonías cromáticas perfectamente elaboradas con una maravillosa belleza y complejidad, que conectan de una manera exquisita con el entorno.
+    p.mb-5 La naturaleza, es la diosa en generar armonías cromáticas perfectamente elaboradas con una maravillosa belleza y complejidad, que conectan de una manera exquisita con el entorno.
 
     figure.mb-5
-        img.img-c(src='@/assets/tema1/img-24.svg')
+        img.img-c(src='@/assets/tema1/img-24-.svg')
     .row
       .col-lg-6
         figure.mb-5
@@ -258,13 +261,18 @@
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-10.align-self-center.img-c
         .row.justify-content-around.align-items-center      
-          .bloque-texto-e.color-primario.p-4.fnd-1.mb-5
-            .bloque-texto-e__text
-              i.fas.fa-quote-left.txt-1
-              p <b>#[span(style="margin-left:6rem;")    Las personas deciden si les gusta o no un producto en 90 segundos o menos. El 90% de esa decisión se basa únicamente en el color.]</b> 
+         
 
-              p.text-bold.d-flex.justify-content-end (Decker, 2017).
-                i.fas.fa-quote-right.d-flex.justify-content-end.txt-1
+          .bloque-texto-d.color-primario.p-4.mb-4.fnd-1.fnd
+            .bloque-texto-d__texto.mb-2
+              i.fas.fa-quote-left.txt-1
+              h3.text-regular Las personas deciden si les gusta o no un producto en 90 segundos o menos. El 90% de esa decisión se basa únicamente en el color. 
+              i.fas.fa-quote-right.txt-1
+            .bloque-texto-d__autor 
+              .h5.mb-0 (Decker, 2017).
+
+
+
           p.mb-5 Para entender el tema, es muy apropiado imaginarse ¡Qué sería de la moda si no existiera el color!, se podría decir que el mundo sería gris, opaco, apacible, casi que la tristeza reinaría; todo lo contrario, ocurre cuando hablamos del color, que se asemeja a la vida misma, se tiene todo por vivir, conocer, alcanzar y ser feliz; es cuando aparece una gama de colores fuertes y medios llamados colores cálidos. 
           .bloque-texto-e.color-acento-contenido.p-4.fnd-1-.mb-5
             .bloque-texto-e__text
@@ -339,17 +347,16 @@
           spam.fnd-5-.mb-4 ¿Por qué es importante la carta de color en una colección?    
           p Porque es una <b><span class='txt-1'>fotografía de la inspiración de la colección y determina la historia y aplicación del color dentro del proyecto,</span></b> es la guía fundamental dentro de la percepción y el concepto hasta la materialización de la colección; existen muchas cartas de color, pero regularmente para el sector moda vestuario se usa como guía de apoyo para el color el “Pantone”, catálogo de tonos de tintas para papel que ofrece una gran cantidad de tonos codificados y organizados que ayudan a orientar mejor la organización de los colores para las telas, fibras, estampados, bordados y otros y dan paso al desarrollo de la colección. 
 
-    figure.mb-5
-      .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/Pn6nZjHced4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    .row.justify-content-around.align-items-center.fnd-4.mb-5
-
-      .col-lg-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_8_Diseno_para_no_disenadores_color.pdf')" target="_blank")
-          .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
-          .anexo__texto
-            p Diseño para no diseñadores  
+    .row.justify-content-around.align-items-center.mb-5
+      .col-lg-10.align-self-center.img-c
+        .row.justify-content-around.align-items-center.mb-4
+          .col-lg-8
+            .row.justify-content-around.align-items-center.fnd-4-.mb-5
+              a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_8_Diseno_para_no_disenadores_color.pdf')" target="_blank")
+                .anexo__icono
+                  img(src="@/assets/template/icono-pdf.svg")
+                .anexo__texto
+                  p Diseño para no diseñadores  
 
 
 
