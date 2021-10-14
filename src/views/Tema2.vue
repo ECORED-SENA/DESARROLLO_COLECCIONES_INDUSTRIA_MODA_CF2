@@ -35,14 +35,14 @@
           .col-lg
             figure.mb-5
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/Qy1oNeUIGco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                iframe(width="560" height="315" src="https://www.youtube.com/watch?v=prrhTLfMKNg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-      .py-4.py-md-5(titulo="<b><span class='txt-1'>Vídeo 1. </span></b> <br>Why Do We Wear Clothes? ")
+      .py-4.py-md-5(titulo="<b><span class='txt-1'>Vídeo 2. </span></b> <br>Why Do We Wear Clothes? ")
         .row
           .col-lg
             figure.mb-5
               .video
-                iframe(width="560" height="315" src="https://www.youtube.com/embed/N2ARX7KAXg8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                iframe(width="560" height="315" src="https://www.youtube.com/watch?v=E4HGfagANiQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
 
     .row.justify-content-around.align-items-center.fnd-4.mb-5
