@@ -71,44 +71,44 @@
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=VwcEM7yH_BY&t=49s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/VwcEM7yH_BY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 2. Función y forma.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=gDdecWi3Cqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/gDdecWi3Cqo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 3. La Police Gear. Atlas tactical pant with STS.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=9c804j6JkcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/9c804j6JkcM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 4. Ropa técnica y minimalista para viajar cómodo.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=C--IDz6VPgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/C--IDz6VPgc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 5. Ropa términca para futbolistas.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=TW_EP9gr8ro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/TW_EP9gr8ro" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 6. Ropa infantil funcional y ecológica.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=CWAKQ9BOJP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/CWAKQ9BOJP0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 7. H&M for brick lane bikes: coming together.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=mzxS3vl0418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/mzxS3vl0418" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       .tarjeta.color-primario--borde.p-4(titulo="Vídeo 8. H&M for brick lane bikes: men's fashion.")
         .row
           figure.mb-5
             .video
-              iframe(width="560" height="315" src="https://www.youtube.com/watch?v=SevMbAEKV34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                                                                                    
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/SevMbAEKV34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)                                                                                    
             
     separador
     #t_2_3.titulo-segundo
@@ -123,7 +123,7 @@
 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/watch?v=_tAyf9tOkW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/tAyf9tOkW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)      
 
       .col-lg-6
         a.anexo.mb-4(:href="('https://www.protocolo.org/social/vestuario/la-indumentaria-que-decimos-con-nuestra-forma-de-vestir.html')" target="_blank")
@@ -217,13 +217,13 @@
       .col-lg-10.align-self-center.fnd-1-.p-3 
         .row.justify-content-around.align-items-center
           .col-lg-8.mb-3
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=-HjTNGLh35s" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/-HjTNGLh35s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Vídeo  Ropa blindada: un hombre recibió dos disparos 
           .col-lg-8.mb-3               
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=uqQwKOYZn9w" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/v=uqQwKOYZn9w" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -247,7 +247,7 @@
               .anexo__texto
                 p Vollebak Black Squid Jacket | HiConsumption  
           .col-lg-8.mb-3               
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/watch?v=1s8DXEXFDY8&feature=youtu.be" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/1s8DXEXFDY8" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
