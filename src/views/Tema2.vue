@@ -217,13 +217,13 @@
       .col-lg-10.align-self-center.fnd-1-.p-3 
         .row.justify-content-around.align-items-center
           .col-lg-8.mb-3
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/-HjTNGLh35s" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://youtu.be/-HjTNGLh35s" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
                 p Vídeo  Ropa blindada: un hombre recibió dos disparos 
           .col-lg-8.mb-3               
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/v=uqQwKOYZn9w" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://youtu.be/uqQwKOYZn9w" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
@@ -247,7 +247,7 @@
               .anexo__texto
                 p Vollebak Black Squid Jacket | HiConsumption  
           .col-lg-8.mb-3               
-            a.anexo.mb-4.mb-lg-0(href="https://www.youtube.com/embed/1s8DXEXFDY8" target="_blank")
+            a.anexo.mb-4.mb-lg-0(href="https://youtu.be/1s8DXEXFDY8" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-link.svg")
               .anexo__texto
