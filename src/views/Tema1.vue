@@ -239,22 +239,15 @@
             p #[span(style="margin-left:6rem;")    Las personas se han hecho cada vez más conscientes de la importancia de los colores, en parte por la gran cantidad de analistas de color que se han empleado en el mercado actual. Estos profesionales han llamado la atención de los consumidores sobre los colores que tienen significados simbólicos y provocan sensaciones individuales.]
             p #[span(style="margin-left:5px;")  Hay que tener en cuenta que la primera impresión es la más importante y que el color del vestuario envía mensajes no verbales definitivos sobre lo que el individuo quiere comunicar.] 
 
-            p.text-bold.d-flex.justify-content-end (Geringer et al., 2001, p.2)
-              i.fas.fa-quote-right.d-flex.justify-content-end.txt-1
-   
-    p El color es un elemento enamorador de una prenda y/o colección, por esto lo más importante es la interpretación que se le dé al concepto, de donde se definen los colores de la colección.
-
-    p.mb-5 La naturaleza, es la diosa en generar armonías cromáticas perfectamente elaboradas con una maravillosa belleza y complejidad, que conectan de una manera exquisita con el entorno.
-
-    figure.mb-5
-        img.img-c(src='@/assets/tema1/img-24-.svg')
     .row
-      .col-lg-6
-        figure.mb-5
-          img.img-c.img-450(src='@/assets/tema1/img-25.svg')
-      .col-lg-6.align-self-center
-        h5.roj Rojo
-        p Simboliza la sangre, el fuego, el calor, la evolución, la alegría, la vitalidad y la pasión, pero también representa peligro, el odio y la violencia. Es el color de la acción y de las personas extrovertidas.
+      .col-lg-12
+        .embed-responsive.embed-responsive-21by9
+            iframe.embed-responsive-item(width='100%', height='615', src='actividades/story.html', frameborder='0', allow='accelerometer; encrypted-media; gyroscope; picture-in-picture', allowfullscreen='')
+
+
+
+
+
     separador
     #t_1_7.titulo-segundo
       h2 1.7 Significado del color en la moda: definición, características y funcionalidad en prendas de vestir
