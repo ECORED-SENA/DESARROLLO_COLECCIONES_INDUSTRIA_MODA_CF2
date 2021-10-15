@@ -173,7 +173,7 @@
           .anexo__texto
             p AntropometriaApp 
       .col-md-6.col-lg.mb-5.mb-lg-0
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_R _ Informe_resultados_TECMOD')" target="_blank")
+        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_R _ Informe_resultados_TECMOD.pdf')" target="_blank")
           .anexo__icono
             img(src="@/assets/template/icono-pdf.svg")
           .anexo__texto
