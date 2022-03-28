@@ -223,11 +223,6 @@ export default {
     },
     {
       referencia:
-        'De los Santos, A. (s.f.). Fundamentos visuales 2: Teoría del Color. ',
-      link: 'http://ww7.anibaldesigns.com/',
-    },
-    {
-      referencia:
         'Dinngo. (s.f.). Design Thinking en Español. Designthinking. ',
       link: 'http://designthinking.es/inicio/index.php',
     },
@@ -297,7 +292,7 @@ export default {
     },
     {
       referencia:
-        'Gonzalez Gonzalez, A. M. (2008). Distincion social y moda. EUNSA. ',
+        'Gonzalez Gonzalez, A. M. (2008). Distinción social y moda. EUNSA. ',
       link: 'https://elibro.net/es/lc/senavirtual/titulos/47429',
     },
     {
@@ -317,16 +312,6 @@ export default {
     {
       referencia:
         'Hincapié, Luis Alfonso. (2014). Teoría del Color. SENA, Itagüí, Antioquia',
-    },
-    {
-      referencia:
-        'Kim, J., Kim, Y., Oh, J. y Kim, K., (2017). Interactive Smart Fashion Using User-Oriented Visible Light Communication: The Case of Modular Strapped Cuffs and Zipper Slider Types. Neural Plasticity, 1(1), 2–3. ',
-      link: 'https://doi.org/10.1155/2017',
-    },
-    {
-      referencia:
-        'Jungwoo, K. (2013). Watercolor on paper [Archivo de video]. ',
-      link: 'https://co.pinterest.com/pin/356699232985283535',
     },
     {
       referencia:
@@ -380,7 +365,7 @@ export default {
     },
     {
       referencia:
-        'Munari, B. (2016a). ¿Como nacen los objetos?: apuntes para una metodología proyectual. Editorial Gustavo Gili. ',
+        'Munari, B. (2016a). ¿Cómo nacen los objetos?: apuntes para una metodología proyectual. Editorial Gustavo Gili. ',
       link: 'https://elibro.net/es/lc/senavirtual/titulos/45611',
     },
     {
@@ -458,12 +443,6 @@ export default {
     },
     {
       referencia:
-        'Thames, B. (2001). Dibujo y diseño de modas. McGraw-Hill Interamericana. ',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/74073',
-    },
-    {
-      referencia:
         'Universidad de Palermo (2010). La comunicación y el simbolismo del color. ',
       link:
         'https://fido.palermo.edu/servicios_dyc/publicacionesdc/vista/detalle_articulo.php?id_libro=147&id_articulo=6002',
@@ -505,19 +484,8 @@ export default {
     },
     {
       referencia:
-        'Weber, J. (2001). Entender el color. En La ropa: confección diseño y materiales. (pp. 158 a 169). McGraw-Hill Interamericana. Recuperado de ',
-      link:
-        'https://elibro-net.bdigital.sena.edu.co/es/lc/senavirtual/titulos/101917',
-    },
-    {
-      referencia:
         'What Dreams May Come. (1998). Película de Vicent Ward [video] YouTube. ',
       link: 'https://youtu.be/IXOGgu0MuCs',
-    },
-    {
-      referencia:
-        'Wikipedia. (s.f.). Wikipedia, la enciclopedia libre. Wikipedia. Retrieved July 6, 2020, from ',
-      link: 'https://es.wikipedia.org/wiki/Código_de_vestimenta',
     },
   ],
   complementario: [
@@ -567,11 +535,6 @@ export default {
     },
   ],
   glosario: [
-    {
-      termino: 'MoodBoard',
-      significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
-    },
     {
       termino: 'Ajuste',
       significado:
@@ -632,7 +595,7 @@ export default {
         '1. f. Cualidad de funcional (Real Academia Española, s.f.). ',
     },
     {
-      termino: 'Ignifugo',
+      termino: 'Ignífugo',
       significado:
         'Que no se inflama ni propaga la llama o el fuego (Real Academia Española, s.f.).',
     },
@@ -649,7 +612,7 @@ export default {
     {
       termino: 'Modelación',
       significado:
-        'Sustantivo femenino. Es un vocabulario se refiere como la acción y resultado de modelar o modelarse alguna cosa o elemento, en dar la forma de barro, cera o cualquier material o cosa blanda una figura, forma y adorno o presentar de manera exacta la relieve de las figuras (Definicion.de, s.f.).',
+        'Sustantivo femenino. Es un vocabulario se refiere como la acción y resultado de modelar o modelarse alguna cosa o elemento, en dar la forma de barro, cera o cualquier material o cosa blanda una figura, forma y adorno o presentar de manera exacta el relieve de las figuras (Definicion.de, s.f.).',
     },
     {
       termino: 'Moodboard',
@@ -674,7 +637,7 @@ export default {
     {
       termino: 'Sensórica',
       significado:
-        'Sensórica es un concepto genérico que hace referencia a diferentes tipos de sensórica para múltiples aplicaciones en la industria e investigación de sensores. Bajo esta palabra de sensórica se entiende tanto las unidades que emite una señal analógica, como las unidades que emite una señal binaria (encendido o apagado). En todos aquellos lugares donde no sea posible detectar magnitudes eléctricas se requiere la sensórica. Convierte una magnitud física en una magnitud eléctrica. Encontrará en nuestra gama de productos sensórica para diferentes magnitudes físicas. En las siguientes categorías encontrará sensores para diferentes aplicaciones. Los sensores de temperatura son tal vez los más conocidos y usados. Los Pt100 o termoelementos es sensórica que tienen un campo amplio de aplicaciones en la industria y la investigación. Como consecuencia, existe también una amplia variedad. Además, para aplicaciones especiales se puede fabricar sensores específicos. Otro campo importante de la sensórica son los medidores de presión. También aquí la oferta de sensores de presión es muy grande debido a la gran variedad de ámbitos de uso. En caso que no encuentre el sensor adecuado, llámenos. La gama de productos se completa con indicadores de nivel y sensores de fuerza, así como electrodos pH y Redox. Para que pueda incluir los sensores en su proceso, la mayoría de los sensores disponen de componentes adicionales para la adaptación (Pce-ibérica, s.f.).',
+        'Sensórica es un concepto genérico que hace referencia a diferentes tipos de sensórica para múltiples aplicaciones en la industria e investigación de sensores. Bajo esta palabra de sensórica se entiende tanto las unidades que emite una señal analógica, como las unidades que emite una señal binaria (encendido o apagado). En todos aquellos lugares donde no sea posible detectar magnitudes eléctricas se requiere la sensórica. Convierte una magnitud física en una magnitud eléctrica. Encontrará en nuestra gama de productos sensórica para diferentes magnitudes físicas. En las siguientes categorías encontrará sensores para diferentes aplicaciones. Los sensores de temperatura son tal vez los más conocidos y usados. Los Pt100 o termoelementos es sensórica que tienen un campo amplio de aplicaciones en la industria y la investigación. Como consecuencia, existe también una amplia variedad. Además, para aplicaciones especiales se puede fabricar sensores específicos. Otro campo importante de la sensórica son los medidores de presión. También aquí la oferta de sensores de presión es muy grande debido a la gran variedad de ámbitos de uso. En de caso que no encuentre el sensor adecuado, llámenos. La gama de productos se completa con indicadores de nivel y sensores de fuerza, así como electrodos pH y Redox. Para que pueda incluir los sensores en su proceso, la mayoría de los sensores disponen de componentes adicionales para la adaptación (Pce-ibérica, s.f.).',
     },
     {
       termino: 'Simbiótica',
@@ -697,7 +660,7 @@ export default {
         'Cualidad o conjunto de cualidades por las que una  cosa es apreciada o bien considerada.',
     },
     {
-      termino: 'Volumen ',
+      termino: 'Volumen',
       significado:
         'Es básicamente la propiedad que tiene el color, es la capacidad de representar gráficamente la tridimensionalidad utilizando el tono, el tinte, el color, para asegurar que se visualice el contenido de la forma que se quiere graficar.',
     },

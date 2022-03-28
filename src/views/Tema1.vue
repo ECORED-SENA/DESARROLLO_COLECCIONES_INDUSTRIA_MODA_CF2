@@ -180,7 +180,7 @@
         .row
           .col-xl-8
             h4 El contraste
-            p <b><span class='txt-1'>El contraste se genera a partir de la elección de dos colores en igual intensidad, pero enfrentados, para ello, es importante es que se encuentren en el mismo nivel en el círculo cromático.</span></b>  Una de las características que se produce, es que se divide el espacio, la estructura y en el caso del vestuario, la silueta, separando de una forma radical la composición entre colores.
+            p <b><span class='txt-1'>El contraste se genera a partir de la elección de dos colores en igual intensidad, pero enfrentados, para ello, es importante que se encuentren en el mismo nivel en el círculo cromático.</span></b>  Una de las características que se produce, es que se divide el espacio, la estructura y en el caso del vestuario, la silueta, separando de una forma radical la composición entre colores.
           .col-xl-4
             figure
               img.img-c.img-250(src='@/assets/tema1/img-20.svg')
@@ -210,7 +210,7 @@
               .video
                 iframe(width="560" height="315" src="https://www.youtube.com/embed/Qy1oNeUIGco" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
 
-      .py-4.py-md-5(titulo="<b><span class='txt-1'>Vídeo 1. </span></b> <br>Técnica de Marcador")
+      .py-4.py-md-5(titulo="<b><span class='txt-1'>Vídeo 2. </span></b> <br>Técnica de Marcador")
         .row
           .col-lg
             figure.mb-5
@@ -233,11 +233,16 @@
         p.mb-0 <b><span class='txt-1'>La estética</span></b> presenta un sinnúmero de <b><span class='txt-1'>opciones </span></b>desde el <b><span class='txt-1'>manejo del color,</span></b> donde hacen su aparición las tonalidades, generando sensaciones de alegría, tristeza y tranquilidad, que son fenómenos donde el color siempre está presente y se sienten de una manera tan evidente que, con la presencia del solo color, se puede leer o traducir en sentimientos.
 
     .row.mb-5
-        .bloque-texto-e.color-primario.p-4.fnd-1.fnd-b 
-          .bloque-texto-e__text
-            i.fas.fa-quote-left.txt-1
-            p #[span(style="margin-left:6rem;")    Las personas se han hecho cada vez más conscientes de la importancia de los colores, en parte por la gran cantidad de analistas de color que se han empleado en el mercado actual. Estos profesionales han llamado la atención de los consumidores sobre los colores que tienen significados simbólicos y provocan sensaciones individuales.]
-            p #[span(style="margin-left:5px;")  Hay que tener en cuenta que la primera impresión es la más importante y que el color del vestuario envía mensajes no verbales definitivos sobre lo que el individuo quiere comunicar.] 
+      .bloque-texto-e.color-primario.p-4.fnd-1.fnd-b 
+        .bloque-texto-e__text
+          i.fas.fa-quote-left.txt-1
+          p #[span(style="margin-left:6rem;")    Las personas se han hecho cada vez más conscientes de la importancia de los colores, en parte por la gran cantidad de analistas de color que se han empleado en el mercado actual. Estos profesionales han llamado la atención de los consumidores sobre los colores que tienen significados simbólicos y provocan sensaciones individuales.]
+          p #[span(style="margin-left:5px;")  Hay que tener en cuenta que la primera impresión es la más importante y que el color del vestuario envía mensajes no verbales definitivos sobre lo que el individuo quiere comunicar.] 
+            i.fas.fa-quote-right.txt-1
+
+    p El color es un elemento enamorador de una prenda y/o colección, por esto lo más importante es la interpretación que se le dé al concepto, de donde se definen los colores de la colección.
+
+    p La naturaleza, es la diosa en generar armonías cromáticas perfectamente elaboradas con una maravillosa belleza y complejidad, que conectan de una manera exquisita con el entorno. 
 
     .row
       .col-lg-12
@@ -253,19 +258,14 @@
       h2 1.7 Significado del color en la moda: definición, características y funcionalidad en prendas de vestir
     .row.justify-content-around.align-items-center.mb-5
       .col-lg-10.align-self-center.img-c
-        .row.justify-content-around.align-items-center      
-         
-
+        .row.justify-content-around.align-items-center
           .bloque-texto-d.color-primario.p-4.mb-4.fnd-1.fnd
             .bloque-texto-d__texto.mb-2
               i.fas.fa-quote-left.txt-1
-              h3.text-regular Las personas deciden si les gusta o no un producto en 90 segundos o menos. El 90% de esa decisión se basa únicamente en el color. 
+              h3.text-regular Las personas deciden si les gusta o no un producto en 90 segundos o menos. El 90 % de esa decisión se basa únicamente en el color. 
               i.fas.fa-quote-right.txt-1
             .bloque-texto-d__autor 
               .h5.mb-0 (Decker, 2017).
-
-
-
           p.mb-5 Para entender el tema, es muy apropiado imaginarse ¡Qué sería de la moda si no existiera el color!, se podría decir que el mundo sería gris, opaco, apacible, casi que la tristeza reinaría; todo lo contrario, ocurre cuando hablamos del color, que se asemeja a la vida misma, se tiene todo por vivir, conocer, alcanzar y ser feliz; es cuando aparece una gama de colores fuertes y medios llamados colores cálidos. 
           .bloque-texto-e.color-acento-contenido.p-4.fnd-1-.mb-5
             .bloque-texto-e__text
@@ -280,8 +280,8 @@
             p Cuando se trabaja un tema en donde se refiere a la tranquilidad, el reposo, lo natural y romántico, sin mucho afán, con algo de ternura; la paleta de color se transforma en tonalidades pastel.
             p Si por el contrario, se está pasando por una etapa de depresión, tristeza, angustia, donde nada tiene sentido, el peso de la vida se lleva en la espalda y todo se arrastra; aparecen los tonos fríos, tierra, neutros, un poco sucios y opacos.
             p En cambio, cuando se pasa por momentos oscuros, nublados, misteriosos donde el paso a seguir es la muerte; aparece una tonalidad muy cercana al negro.
-            p En la moda pasa algo muy similar, depende en gran parte del contexto histórico que se esté viviendo, seguido del espíritu del momento, pasando por las temporadas invierno, primavera, otoño, verano que por tradición están acompañadas de unas gamas que las caracterizan. <b><span class='txt-1'>Cada época trae consigo unas cartas de color</span></b>  resultado de las tendencias, sobretodo de los conceptos que se estén manejado en el momento para crear la colección, donde lo primero que se resuelve es la carta de color que enmarcará la colección.
-            p Es tan importante<b><span class='txt-1'> el color para la moda</span></b> que llega a transformar,<b><span class='txt-1'>favorecer o perjudicar</span></b> a la persona que lo porta: una buena selección de color puede hacer lucir a la persona más joven, alegre, con la piel más saludable, que sus ojos brillen y el cabello luzca bien. Existen dos tipos de piel, cálida y fría, cada una se puede ver beneficiada o perjudicada dependiendo del tipo de color que acompañe y cubra su cuerpo, los colores que lleva la persona influyen directamente en cómo se siente.
+            p En la moda pasa algo muy similar, depende en gran parte del contexto histórico que se esté viviendo, seguido del espíritu del momento, pasando por las temporadas invierno, primavera, otoño, verano que por tradición están acompañadas de unas gamas que las caracterizan. <b><span class='txt-1'>Cada época trae consigo unas cartas de color</span></b>  resultado de las tendencias, sobretodo de los conceptos que se estén manejando en el momento para crear la colección, donde lo primero que se resuelve es la carta de color que enmarcará la colección.
+            p Es tan importante<b><span class='txt-1'> el color para la moda</span></b> que llega a transformar, <b><span class='txt-1'>favorecer o perjudicar</span></b> a la persona que lo porta: una buena selección de color puede hacer lucir a la persona más joven, alegre, con la piel más saludable, que sus ojos brillen y el cabello luzca bien. Existen dos tipos de piel, cálida y fría, cada una se puede ver beneficiada o perjudicada dependiendo del tipo de color que acompañe y cubra su cuerpo, los colores que lleva la persona influyen directamente en cómo se siente.
             p Cada individuo tiene su propia percepción del color, depende de la experiencia que haya tenido con este; los gustos por los colores, tonalidades o efectos de los colores varían debido a que el reflejo de la luz y la visión hace que sea muy personal, teniendo un común denominador llamado temporada y color de moda.
           .col-lg-6          
             SlyderE(indicadores="derecha")
@@ -315,7 +315,7 @@
               p Son todos los tonos que, sin ser principales están presentes en las piezas de vestuario como detalles de combinación entre las bases, determinan los cambios de nivel y se hacen visibles como elementos para  <b><span class='txt-1'>mejorar el equilibrio y ajuste</span></b> en la mayoría de las prendas de la colección o en sus posibles variables de combinación o croquis de presentación.
         
             div(titulo="Tonalidades")
-              p son los contrastes, estos pueden estar o no presentes en la colección y sirven <b><span class='txt-1'>para marcar la diferencia y romper la monotonía del color </span></b> en una serie de prendas, llamando la atención en algunos puntos específicos y haciendo más dinámica la acción del color, el estilo y forma de la colección.
+              p Son los contrastes, estos pueden estar o no presentes en la colección y sirven <b><span class='txt-1'>para marcar la diferencia y romper la monotonía del color </span></b> en una serie de prendas, llamando la atención en algunos puntos específicos y haciendo más dinámica la acción del color, el estilo y forma de la colección.
       br
       br
     .row.justify-content-around.align-items-center.mb-5

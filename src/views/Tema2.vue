@@ -14,7 +14,7 @@
             p El <b><span class='txt-1'>concepto de funcionalidad</span></b> en cuanto al vestuario, ha cambiado a través de la historia de la humanidad. En un comienzo la función del vestuario fue proteger de las condiciones climáticas, animales o factores externos. 
             p Luego, se le fueron adicionando <b><span class='txt-1'>funciones extras</span></b> que permitieron la comunicación por medio de los códigos de vestir.
              p Posteriormente, tras el <b><span class='txt-1'>estudio de las relaciones físicas</span></b> del ser humano con su entorno, a partir de la ergonomía, se establecen conceptos de <b><span class='txt-1'>modelación y comodidad </span></b>del vestuario, dando como resultado prendas de vestir adecuadas a la <b><span class='txt-1'>forma y capacidades</span></b> del cuerpo humano.
-            p En la actualidad, al implementar las nuevas tecnologías, se han logrado materiales con funciones adicionales y procesos de producción tecnológicos que dan paso a <b><span class='txt-1'>prendas con protección </span></b>(antibalas, ignifugas, a los rayos UV, antibacterianas, antimicrobianas), <b><span class='txt-1'>usos comunicativos</span></b> (luces led, cambios de color), que adicionan dispositivos de la sensórica que permiten <b><span class='txt-1'>monitorear signos vitales </span></b>(temperatura, ritmo cardiaco, presión arterial), entre otros nuevos usos de la ropa.
+            p En la actualidad, al implementar las nuevas tecnologías, se han logrado materiales con funciones adicionales y procesos de producción tecnológicos que dan paso a <b><span class='txt-1'>prendas con protección </span></b>(antibalas, ignífugas, a los rayos UV, antibacterianas, antimicrobianas), <b><span class='txt-1'>usos comunicativos</span></b> (luces led, cambios de color), que adicionan dispositivos de la sensórica que permiten <b><span class='txt-1'>monitorear signos vitales </span></b>(temperatura, ritmo cardiaco, presión arterial), entre otros nuevos usos de la ropa.
 
           .col-lg-4.mb-5          
             figure.py-3
@@ -48,9 +48,9 @@
     .row.justify-content-around.align-items-center.fnd-4.mb-5
 
       .col-lg-6
-        a.anexo.mb-4(:href="obtenerLink('/downloads/Anexo_8_Diseno_para_no_disenadores_color.pdf')" target="_blank")
+        a.anexo.mb-4(href="https://proyectomedussa.com/el-vestuario-como-identidad-del-gesto-personal-al-colectivo/" target="_blank")
           .anexo__icono
-            img(src="@/assets/template/icono-pdf.svg")
+            img(src="@/assets/template/icono-link.svg")
           .anexo__texto
             p El vestuario como identidad, del gesto personal al colectivo.  
             
@@ -130,7 +130,7 @@
           .anexo__icono
             img(src="@/assets/template/icono-link.svg")
           .anexo__texto
-            p El vestuario como identidad, del gesto personal al colectivo.  
+            p La indumentaria. ¿Qué 'decimos' con nuestra forma de vestir?   
 
     separador
     #t_2_4.titulo-segundo
